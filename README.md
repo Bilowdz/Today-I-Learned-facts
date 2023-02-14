@@ -1,2 +1,5 @@
-# UDemy-Full-Stack-Crash-Course
- 
+uses:
+
+- Supabase
+- node.js
+- React.js
